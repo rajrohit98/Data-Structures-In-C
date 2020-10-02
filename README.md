@@ -1,5 +1,5 @@
 
-# Data-Structures-In-C
+# Data-Structures-&-Algorithms-In-C (DSC)
 Implementation of Data Structures like Stacks, Queues, etc. using C programming language.
 
 Programs Included -
